@@ -4,7 +4,7 @@ const products = [
   {
     id: 1,
     name: "Wireless Headphones",
-    image: "https://images.unsplash.com/photo-1519985176271-adb1088fa94c?w=600&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1657223144998-e5aa4fa2db7c?w=600&auto=format&fit=crop&q=60",
     price: "$99.99",
     description: "Noise-cancelling wireless headphones with immersive sound."
   },
